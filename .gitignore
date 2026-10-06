@@ -1,0 +1,5 @@
+# Raw source photos (up to 20 MB each). The site only uses the optimized copies in assets/images/.
+media/
+
+# Reference copies of other sites; not part of this site.
+scda-*.html
